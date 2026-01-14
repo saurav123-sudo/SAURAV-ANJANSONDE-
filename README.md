@@ -23,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurav123-sudo&show_icons=true&locale=en" alt="saurav123-sudo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurav123-sudo&" alt="saurav123-sudo" /></p>
+ ![code](https://github.com/user-attachments/assets/edffde8b-0ced-4b9c-b542-ebaa9d1858e5)
+
