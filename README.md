@@ -5,6 +5,35 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurav123-sudo&label=Profile%20views&color=0e75b6&style=flat" alt="saurav123-sudo" /> </p>
+# Hi 👋, I'm Saurabh Anjansonde
+
+## 🚀 AWS | DevOps | Cloud Engineer
+
+💡 Passionate about cloud infrastructure, automation, and scalable systems.  
+🌱 Currently learning advanced DevOps tools and cloud architecture.  
+💼 Interested in AWS, DevOps, Linux, Docker, Kubernetes, CI/CD.
+
+---
+
+## 🛠️ Skills & Tools
+
+- **Cloud:** AWS (EC2, S3, IAM, RDS, VPC, CloudWatch)
+- **DevOps:** Docker, Kubernetes, Jenkins, Git, GitHub
+- **OS:** Linux (Ubuntu, Amazon Linux)
+- **Scripting:** Shell Scripting
+- **Monitoring:** CloudWatch, Logs
+- **Networking:** Load Balancer, Auto Scaling, VPC
+
+---
+
+## 📌 Projects
+
+- 🔹 AWS EC2 Web Application Deployment  
+- 🔹 CI/CD Pipeline using Jenkins & GitHub  
+- 🔹 Dockerized Application Deployment  
+- 🔹 Kubernetes Pod & Service Setup  
+
+
 
 - 📫 How to reach me **sauravanjansonde@gmail.com**
 
