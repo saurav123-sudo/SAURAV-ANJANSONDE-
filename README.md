@@ -52,4 +52,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurav123-sudo&" alt="saurav123-sudo" /></p>
 
+<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/f82e4ca0-770b-4a1d-9dcb-5ba7b481e584" />
 
