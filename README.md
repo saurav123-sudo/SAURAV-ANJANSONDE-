@@ -16,7 +16,7 @@
 
 ## 🛠️ Skills & Tools
 
-- **Cloud:** AWS (EC2, S3, IAM, RDS, VPC, CloudWatch)
+- **Cloud:** AWS (EC2, S3, IAM, RDS, VPC, SNS, Route53, Lambda, CloudWatch, ClouFront)
 - **DevOps:** Docker, Kubernetes, Jenkins, Git, GitHub
 - **OS:** Linux (Ubuntu, Amazon Linux)
 - **Scripting:** Shell Scripting
